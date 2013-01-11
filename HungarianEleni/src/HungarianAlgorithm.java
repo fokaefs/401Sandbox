@@ -48,6 +48,8 @@ import java.io.IOException;
 import java.util.*;
 import org.math.array.*;
 
+import reviewerAssignment.HungarianInputReader;
+
 public class HungarianAlgorithm {
 	
 	
