@@ -1,3 +1,4 @@
+package fileManipulations;
 
 public class FileTypeExtensionException extends Exception {
 
